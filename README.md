@@ -22,7 +22,7 @@ I combine years of operational experience (**Industriemeister Logistik**) with m
 
 | Project | Description | Tech |
 | :--- | :--- | :--- |
-| **[SZR Calculator](https://github.com/Monorapture/logistics-python-tools/tree/main/szr_calculator)** | Liability calculator with live API currency conversion. | `Python` `API` `GUI` |
+| **[SDR Calculator](https://github.com/Monorapture/logistics-python-tools/tree/main/sdr_calculator)** | Liability calculator with live API currency conversion. | `Python` `API` `GUI` |
 | **[Data Cleaning Pipeline](https://github.com/Monorapture/logistics-python-tools/tree/main/data_cleaning)** | ETL script fixing logic errors and noisy data in supply chain datasets. | `Pandas` `ETL` |
 
 ---
