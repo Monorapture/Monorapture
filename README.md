@@ -34,7 +34,7 @@ My approach to system architecture is driven by a neurocognitive profile special
 | :--- | :--- | :--- | :--- |
 | **[Inventory SQL Pipeline](https://github.com/Monorapture/inventory-sql-pipeline)** | **Backend** | A full ETL simulation. Detects "Zombie Data" and automates reorder alerts based on safety stock logic. | `SQL` `SQLite` `Pandas` |
 | **[Logistics Python Tools](https://github.com/Monorapture/logistics-python-tools)** | **Frontend** | The analyst's toolbox. Includes the **SDR Calculator** (Liability) and **Supply Chain Dashboard** (Control Tower). | `Python` `Streamlit` `API` |
-| **[Python Analyst Toolkit](https://github.com/Monorapture/my-python-cheatsheet)** | **Library** | My open-source utility library for automation. Follows the DRY principle (Don't Repeat Yourself) for Excel formatting & DB connections. | `Python` `Automation` |
+| **[Python Analyst Toolkit](https://github.com/Monorapture/my_python_cheatsheet)** | **Library** | My open-source utility library for automation. Follows the DRY principle (Don't Repeat Yourself) for Excel formatting & DB connections. | `Python` `Automation` |
 
 ---
 
