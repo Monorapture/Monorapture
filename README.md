@@ -5,7 +5,7 @@
 ### Industrial Data Architect & Systems Thinker
 *Bridging the gap between physical operations (Logistics) and abstract data architecture (Code).*
 
-[🔗 Connect on LinkedIn](https://www.linkedin.com/in/kilian-sender-aa3100347/)
+📍 Hannover, Germany &nbsp;|&nbsp; 🔗 [Connect on LinkedIn](https://www.linkedin.com/in/kilian-sender-aa3100347/)
 
 </div>
 
