@@ -2,7 +2,7 @@
 
 # Hi there, I'm Kilian 👋
 
-### Industrial Data Architect & Systems Thinker
+### Industrial Data Analyst & Systems Thinker
 *Bridging the gap between physical operations (Logistics) and abstract data architecture (Code).*
 
 📍 Hannover, Germany &nbsp;|&nbsp; 🔗 [Connect on LinkedIn](https://www.linkedin.com/in/kilian-sender-aa3100347/)
@@ -17,7 +17,7 @@ I combine deep operational **expertise** with modern analytics engineering.
 In an era where AI generates code, my value lies in **Physical Grounding**: I understand the physical reality behind the data. I don't just write queries; I build architectures that validate if the data matches the warehouse reality.
 
 ### 🧠 The Neurodivergent Advantage
-My approach to system architecture is driven by a neurocognitive profile specializing in **high-frequency pattern recognition** and an intrinsic drive for **logical consistency** ("Just-Right" Precision).
+My approach to system architecture is driven by a neurocognitive profile specialized in **rapid pattern recognition** and an intrinsic drive for **logical consistency** ("Just-Right" Precision).
 
 * **Hyper-Pattern Recognition:** I spot anomalies in supply chain data (e.g., "Zombie Data" or impossible lead times) that standard algorithms often miss.
 * **System Integrity:** I have a physical intolerance for "Spaghetti Code". I build modular, clean systems to eliminate technical debt before it starts.
@@ -39,7 +39,7 @@ My approach to system architecture is driven by a neurocognitive profile special
 
 | Project | Domain | Description | Stack |
 | :--- | :--- | :--- | :--- |
-| **[Inventory SQL Pipeline](https://github.com/Monorapture/inventory-sql-pipeline)** | **Analytics Engineering** | A modular ELT architecture acting as the "Single Source of Truth". Calculates stock levels, detects "Zombie Data", and strictly separates cleaning logic from business reporting. | `SQL` `Pandas` |
+| **[Inventory SQL Pipeline](https://github.com/Monorapture/inventory-sql-pipeline)** | **Analytics Engineering** | A modular ELT architecture acting as the "Single Source of Truth". Calculates stock levels, detects "Zombie Data", and strictly separating data cleaning logic from business reporting layers. | `SQL` `Pandas` |
 | **[Logistics Python Tools](https://github.com/Monorapture/logistics-python-tools)** | **End-to-End Analytics** | A mono-repo containing my core tools: The **SDR Liability Calculator** (API-based), the **Data Cleaning Pipeline**, and the **Supply Chain Control Tower** (Dashboard). | `Python` `Streamlit` |
 | **[Analyst Toolkit Library](https://github.com/Monorapture/logistics-data-utils)** | **Python Library** | My open-source utility library. Follows the **DRY principle** to standardize Excel formatting, database connections, and path handling across all my projects. | `Python` `Automation` |
 
@@ -49,6 +49,6 @@ My approach to system architecture is driven by a neurocognitive profile special
 
 ### ⚡ Philosophy
 
-> "The Industrial Master knows *how* the process works. The Data Architect knows *why* it breaks. I do both."
+> "The Industrial Expert knows *how* the process works. The Data Architect knows *why* it breaks. I do both."
 
 </div>
