@@ -12,7 +12,7 @@
 ---
 
 ### 👨‍💻 About Me
-I combine deep operational **expertise** (**Industriemeister Logistik**) with modern analytics engineering.
+I combine deep operational **expertise** with modern analytics engineering.
 
 In an era where AI generates code, my value lies in **Physical Grounding**: I understand the physical reality behind the data. I don't just write queries; I build architectures that validate if the data matches the warehouse reality.
 
