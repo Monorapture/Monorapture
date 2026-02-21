@@ -2,8 +2,8 @@
 
 # Hi there, I'm Kilian 👋
 
-### Industrial Data Engineer & Systems Thinker
-*Bridging the gap between physical operations (Logistics) and abstract data architecture (Code).*
+### (Associate) Industrial Data Engineer
+*Focus: Analytics Engineering & Systems Thinking*
 
 Hannover, Germany &nbsp;|&nbsp; 🔗 [Connect on LinkedIn](https://www.linkedin.com/in/kilian-sender-aa3100347/)
 
